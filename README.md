@@ -13,4 +13,4 @@ Crud usando api rest de Django,agregar tareas,editar y eliminar tareas.
 ## Tareas agregadas
 ![alt text](https://user-images.githubusercontent.com/33006607/60941414-aea69600-a2a4-11e9-8837-e378d5b2beae.png)
 ## Tareas completadas
-![alt text]()
+![alt text](https://user-images.githubusercontent.com/33006607/60941628-65a31180-a2a5-11e9-8a90-a2894d13c469.png)
