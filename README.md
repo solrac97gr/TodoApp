@@ -1,4 +1,4 @@
-# TodoApp: REACT + DJANGO REST
+# TodoApp: REACT + DJANGO REST + SQLite3
 Crud usando api rest de Django,agregar tareas,editar y eliminar tareas.
 ### En el backend
 `pip install requirement.txt`
